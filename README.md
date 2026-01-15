@@ -13,3 +13,4 @@ petrushka-green-system-analysis/
 │
 └── diagrams/
     └── push-architecture.png
+## 2. Исправленная версия требований
